@@ -67,3 +67,21 @@ notifying browser that file changed:  resources/public/js/goog/deps.js
 notifying browser that file changed:  resources/public/js/cljs_deps.js
 notifying browser that file changed:  out\om_tutorial\core.js
 [32mSuccessfully compiled "resources/public/js/main.js" in 1.928 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src\om_tutorial\core.cljs
+Compiling target\figwheel_temp\dev\figwheel\connect.cljs
+Copying file:/C:/Users/Ian/IdeaProjects/om-tutorial/src/om_tutorial/core.cljs to resources\public\js\om_tutorial\core.cljs
+notifying browser that file changed:  out\om_tutorial\core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 2.903 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src\om_tutorial\core.cljs
+Compiling target\figwheel_temp\dev\figwheel\connect.cljs
+Copying file:/C:/Users/Ian/IdeaProjects/om-tutorial/src/om_tutorial/core.cljs to resources\public\js\om_tutorial\core.cljs
+notifying browser that file changed:  out\om_tutorial\core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 3.371 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src\om_tutorial\core.cljs
+Compiling target\figwheel_temp\dev\figwheel\connect.cljs
+Copying file:/C:/Users/Ian/IdeaProjects/om-tutorial/src/om_tutorial/core.cljs to resources\public\js\om_tutorial\core.cljs
+notifying browser that file changed:  out\om_tutorial\core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 1.413 seconds.[0m
